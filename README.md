@@ -1,4 +1,4 @@
-# About Me
+———————# About Me
 
 Hey, I'm Adam — a final-semester IT Diploma student at MMU Cyberjaya. I like taking systems apart to see how they work, whether that's code, hardware, or old cars. Recent work includes a CHIP-8 emulator hand-written in AArch64 assembly and a Snake game running straight out of an x86 boot sector.
 
